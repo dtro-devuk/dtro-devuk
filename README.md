@@ -67,7 +67,7 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 ## Future Learning
 
- Gitpod.io
+ - Gitpod.io
 
  Svelte Native (iOS and Android)
 </div>
