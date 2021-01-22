@@ -63,6 +63,8 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 🌱 I’m currently learning ... Nextjs, Reactjs, Gatsby, Tailwind CSS, Svelte, Sapper
 
+📚 I'm currently reading ... Web Site Optimisations, Preloading of Fonts and Scripts, etc. 
+
 👯 I’m looking to collaborate on ... ( still looking 👀 )
 
 ## Future Learning
