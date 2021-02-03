@@ -43,11 +43,12 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 ![TSQL](https://img.shields.io/badge/SQL-TSQL-brightgreen)
 ![NoSQL CosmosDB](https://img.shields.io/badge/NoSQL-CosmosDB-brightgreen)
 
-## Current Learning
+## Current Tech and Learning
 
 ![Next,js](https://img.shields.io/badge/Code-Nextjs-blue)
 ![React.JS](https://img.shields.io/badge/Code-Reactjs-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Code-TailwindCSS-blue)
+![Stroybook](https://img.shields.io/badge/Code-Storybook-blue)
 ![Gatsby](https://img.shields.io/badge/Code-Gastby-blue)
 ![Svelte](https://img.shields.io/badge/Code-Svelte-blue)
 
@@ -61,7 +62,7 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 🔭 I’m currently working on ... My Github Website, Blog and Profile
 
-🌱 I’m currently learning ... Nextjs, Reactjs, Gatsby, Tailwind CSS, Svelte, Sapper, Storybook
+🌱 I’m currently learning ... Nextjs, Reactjs, Tailwind CSS, Storybook, Gatsby, Svelte, Sapper
 
 📚 I'm currently reading ... Web Site Optimisations, Preloading of Fonts and Scripts, etc.
 
