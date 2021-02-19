@@ -62,7 +62,7 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 🔭 I’m currently working on ... My Github Website, Blog and Profile
 
-🌱 I’m currently learning ... Nextjs, Reactjs, Tailwind CSS, Storybook, Gatsby, Svelte, Sapper, Figma
+🌱 I’m currently learning ... Nextjs, Reactjs, Tailwind CSS, Storybook, Gatsby, Svelte, Sapper, Figma UI Design Tool
 
 📚 I'm currently reading ... Web Site Optimisations, Preloading of Fonts and Scripts, Storybook Docs etc.
 
