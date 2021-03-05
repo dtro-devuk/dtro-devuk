@@ -12,10 +12,6 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 ---
 
-{/\*
-
-## [Website](https://dtro-devuk.github.io/dtro-devuk/) \*/}
-
 ## Technologies & Tools
 
 ![Windows](https://img.shields.io/badge/OS-Windows-green)
