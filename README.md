@@ -12,7 +12,9 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 ---
 
-## [Website](https://dtro-devuk.github.io/dtro-devuk/)
+{/\*
+
+## [Website](https://dtro-devuk.github.io/dtro-devuk/) \*/}
 
 ## Technologies & Tools
 
