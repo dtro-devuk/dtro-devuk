@@ -70,13 +70,14 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 ## Future Learning
 
- Gitpod.io
+Gitpod.io
 
- Svelte Native (iOS and Android)
+Svelte Native (iOS and Android)
 
- Sapper
- 
+Sapper
+
 ---
+
 ## Knowledge-Base
 
 [A curated list of resources 🌝](https://dtro-devuk.github.io/KnowledgeBase/)
