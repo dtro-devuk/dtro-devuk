@@ -60,11 +60,13 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 ## Current Work
 
-🔭 I’m currently working on ... My Github Website, Blog and Profile
+🔭 I’m currently working on ... Train Simulation Routes
 
-🌱 I’m currently learning ... Nextjs, Reactjs, Tailwind CSS, Storybook, Gatsby, Svelte, Sapper, Figma UI Design Tool
+🌱 I’m currently learning ... Route and Asset Creation (Train Simulations)
 
-📚 I'm currently reading ... Web Site Optimisations, Preloading of Fonts and Scripts, Storybook Docs etc.
+🌱 I've recently coded using ... Nextjs, Reactjs, Tailwind CSS, Storybook, Gatsby, Svelte, Sapper, Figma UI Design Tool
+
+📚 I'm currently reading ... Loads of stuff!!!
 
 👯 I’m looking to collaborate on ... ( still looking 👀 )
 
