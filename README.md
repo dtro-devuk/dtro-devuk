@@ -4,7 +4,7 @@
 
 # Welcome All :relaxed: 🌝 🌍 🌔
 
-## I'm a passionate self-taught full stack developer, that love's learning, sharing and staying relevant
+## I'm a passionate full stack developer, that love's learning, sharing and staying relevant!
 
 ### I'm currently passionate about JAMstack, Headless CMS, Next.js, React.js, Gatsby, Tailwind CSS, and Svelte
 
@@ -60,9 +60,9 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 ## Current Work
 
-🔭 I’m currently working on ... Train Simulation Routes
+🔭 I’m currently working on ... Train Simulation Routes using a mixture of yools like Blender, Google Earth Pro, Materialize...
 
-🌱 I’m currently learning ... Route and Asset Creation (Train Simulations)
+🌱 I’m currently learning ... Route and Asset Creation (Train Simulations), Blender 3D Modelling & Animation, Materialize for Texture Creation.
 
 🌱 I've recently coded using ... Nextjs, Reactjs, Tailwind CSS, Storybook, Gatsby, Svelte, Sapper, Figma UI Design Tool
 
