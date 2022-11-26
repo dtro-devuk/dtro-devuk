@@ -24,6 +24,7 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 ![Atom](https://img.shields.io/badge/Editor-Atom-yellow)
 ![Webstorm](https://img.shields.io/badge/Editor-Webstorm-yellow)
 ![Notepad++](https://img.shields.io/badge/Editor-NotepadPlusPlus-yellow)
+![Blender](https://img.shields.io/badge/Editor-Blender-orange)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
 ![TypeScript](https://img.shields.io/badge/Code-TypesScript-blue)
@@ -72,11 +73,7 @@ _When I'm not developing and building things, I may be :eyes: reading & learning
 
 ## Future Learning
 
-Gitpod.io
-
-Svelte Native (iOS and Android)
-
-Sapper
+Always on the look out!
 
 ---
 
