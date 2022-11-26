@@ -6,7 +6,7 @@
 
 ## I'm a passionate full stack developer, that love's learning, sharing and staying relevant!
 
-### I'm currently passionate about JAMstack, Headless CMS, Next.js, React.js, Gatsby, Tailwind CSS, and Svelte
+### I'm currently passionate about Blender, 3D Modelling & Animations, Mapping, GIS, JAMstack, Headless CMS, Next.js, React.js, Gatsby, Tailwind CSS, and Svelte
 
 _When I'm not developing and building things, I may be :eyes: reading & learning, :video_game: gaming, chilling to :musical_note: music, :stew: cooking, restoring antiques, or growing :fire: chillies._
 
